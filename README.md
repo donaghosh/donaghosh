@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="dona|LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]linkedin.com/in/dngh30[linkedin]
+<img align="left" alt="dona|LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a>linkedin.com/in/dngh30</a>[linkedin]
 <br />
