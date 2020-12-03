@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/dngh30/"><img align="left" alt="dona|LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/dngh30/"><img align="left" alt="dona|LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://dev.to/donaghosh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dona Ghosh's DEV Profile" height="30" width="30">
 </a>
