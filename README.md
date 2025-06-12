@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/dngh30/"><img align="left" alt="dona|LinkedIn" height="30" width="30" src="https://icons-for-free.com/iconfiles/png/512/linkedin+linkedin+logo+networking+social+media+icon-1320196081476022403.png" /></a>
+<a href="https://www.linkedin.com/in/dngh30/"><img align="left" alt="dona|LinkedIn" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
+<a href="https://codepen.io/your-work"><img align="left" alt="dona|CodePen" height="30" width="30"  src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png"></a>
 <a href="https://dev.to/donaghosh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dona Ghosh's DEV Profile" height="33" width="33">
 </a>
